@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "32094325085",
+    "firebase_url": "https://mmorpg-game-c373a-default-rtdb.firebaseio.com",
+    "project_id": "mmorpg-game-c373a",
+    "storage_bucket": "mmorpg-game-c373a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:32094325085:android:13303aa3cd129bfd6180b4",
+        "android_client_info": {
+          "package_name": "com.zufi.mmorpggame"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzJ96Z7GLma9dvb1pRK9_p20hv9Wp6Wls"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
